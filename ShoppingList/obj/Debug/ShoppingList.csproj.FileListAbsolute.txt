@@ -1,0 +1,10 @@
+C:\Users\Steven\source\repos\ShoppingList\ShoppingList\obj\Debug\ShoppingList.csprojResolveAssemblyReference.cache
+C:\Users\Steven\source\repos\ShoppingList\ShoppingList\obj\Debug\ShoppingList.FormShoppingList.resources
+C:\Users\Steven\source\repos\ShoppingList\ShoppingList\obj\Debug\ShoppingList.Properties.Resources.resources
+C:\Users\Steven\source\repos\ShoppingList\ShoppingList\obj\Debug\ShoppingList.csproj.GenerateResource.Cache
+C:\Users\Steven\source\repos\ShoppingList\ShoppingList\obj\Debug\ShoppingList.csproj.CoreCompileInputs.cache
+C:\Users\Steven\source\repos\ShoppingList\ShoppingList\bin\Debug\ShoppingList.exe.config
+C:\Users\Steven\source\repos\ShoppingList\ShoppingList\bin\Debug\ShoppingList.exe
+C:\Users\Steven\source\repos\ShoppingList\ShoppingList\bin\Debug\ShoppingList.pdb
+C:\Users\Steven\source\repos\ShoppingList\ShoppingList\obj\Debug\ShoppingList.exe
+C:\Users\Steven\source\repos\ShoppingList\ShoppingList\obj\Debug\ShoppingList.pdb
